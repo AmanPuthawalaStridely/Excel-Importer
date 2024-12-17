@@ -1,0 +1,74 @@
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Excel Importer.dll.config
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Excel Importer.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Excel Importer.pdb
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\EPPlus.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\EPPlus.Interfaces.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\EPPlus.System.Drawing.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\McTools.Xrm.Connection.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\McTools.Xrm.Connection.WinForms.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\microsoft.identitymodel.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.Core.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.Ui.Styles.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Newtonsoft.Json.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\ScintillaNET.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Buffers.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.ComponentModel.Annotations.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Drawing.Common.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Memory.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Numerics.Vectors.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Security.Cryptography.Cng.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\WeifenLuo.WinFormsUI.Docking.ThemeVS2015.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\XrmToolBox.exe
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\XrmToolBox.Extensibility.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\XrmToolBox.ToolLibrary.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\EPPlus.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.Core.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Web.XmlTransform.pdb
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.Deployment.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Sdk.Workflow.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.CrmConnectControl.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Microsoft.Xrm.Tooling.WebResourceUtility.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\Newtonsoft.Json.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\ScintillaNET.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Buffers.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Drawing.Common.pdb
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Drawing.Common.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Memory.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Numerics.Vectors.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Security.Cryptography.Cng.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Importer.csproj.AssemblyReference.cache
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel_Importer.MyPluginControl.resources
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel_Importer.Properties.Resources.resources
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Importer.csproj.GenerateResource.cache
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Importer.csproj.CoreCompileInputs.cache
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Im.C5EDB020.Up2Date
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Importer.dll
+D:\CRM Plugin\XRM Tool Box Plugin\Excel Importer\Excel Importer\obj\Debug\Excel Importer.pdb
